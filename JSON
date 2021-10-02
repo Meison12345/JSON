@@ -1,202 +1,82 @@
 [
   {
-    "_id": "61509da1c2641f4ca17b926d",
-    "picture": "http://placehold.it/500x500"
+    "name": "Wagner",
+    "price": 2291359
   },
   {
-    "_id": "61509da11961228a294eebd9",
-    "picture": "http://placehold.it/500x500"
+    "name": "Marsh",
+    "price": 3170022
   },
   {
-    "_id": "61509da1edcee65d4713e090",
-    "picture": "http://placehold.it/500x500"
+    "name": "Frieda",
+    "price": 8006441
   },
   {
-    "_id": "61509da19580c9bcbc7626ea",
-    "picture": "http://placehold.it/500x500"
+    "name": "Flowers",
+    "price": 670973
   },
   {
-    "_id": "61509da1e9d0f05ba4a396a6",
-    "picture": "http://placehold.it/500x500"
+    "name": "Alvarez",
+    "price": 900142
   },
   {
-    "_id": "61509da13e95e845f079147f",
-    "picture": "http://placehold.it/500x500"
+    "name": "Wilkerson",
+    "price": 4586981
   },
   {
-    "_id": "61509da1fe633e2bbd2d9dd2",
-    "picture": "http://placehold.it/500x500"
+    "name": "Herring",
+    "price": 7884042
   },
   {
-    "_id": "61509da1e7210685c990fbee",
-    "picture": "http://placehold.it/500x500"
+    "name": "Susie",
+    "price": 7678439
   },
   {
-    "_id": "61509da135fb861274a72a8d",
-    "picture": "http://placehold.it/500x500"
+    "name": "Conley",
+    "price": 8266467
   },
   {
-    "_id": "61509da108d1da223dbcec08",
-    "picture": "http://placehold.it/500x500"
+    "name": "Paula",
+    "price": 3781646
   },
   {
-    "_id": "61509da18e34fedf506ee36f",
-    "picture": "http://placehold.it/500x500"
+    "name": "Lowe",
+    "price": 6689826
   },
   {
-    "_id": "61509da1b7cf0b0260828479",
-    "picture": "http://placehold.it/500x500"
+    "name": "Higgins",
+    "price": 1403253
   },
   {
-    "_id": "61509da141f6291ddc1417ad",
-    "picture": "http://placehold.it/500x500"
+    "name": "Lessie",
+    "price": 1808047
   },
   {
-    "_id": "61509da167c0485276f43f3f",
-    "picture": "http://placehold.it/500x500"
+    "name": "Lee",
+    "price": 1109431
   },
   {
-    "_id": "61509da1fae9d0d5bacb2050",
-    "picture": "http://placehold.it/500x500"
+    "name": "Rhea",
+    "price": 1934484
   },
   {
-    "_id": "61509da11614a2da87a7a429",
-    "picture": "http://placehold.it/500x500"
+    "name": "Castillo",
+    "price": 8950303
   },
   {
-    "_id": "61509da15dc22f87c06df740",
-    "picture": "http://placehold.it/500x500"
+    "name": "Le",
+    "price": 5972730
   },
   {
-    "_id": "61509da123c802bd81eea999",
-    "picture": "http://placehold.it/500x500"
+    "name": "Brittany",
+    "price": 7392480
   },
   {
-    "_id": "61509da1c95bba0bfac6a2f0",
-    "picture": "http://placehold.it/500x500"
+    "name": "Ola",
+    "price": 8774526
   },
   {
-    "_id": "61509da1dd1c4c4961a6f23d",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da13a2d21d07c9ac35a",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1fbcb3df517e4efcb",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da10ba818e15f7271e3",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1fd0344cb91e881b2",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1eb0abb13201ae9ad",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da149afa010fef6c3ab",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da107e1b8b6326d0578",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da171d29f3e86ea951b",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da185431f89828a06de",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1a9362f2e9083f2d8",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1c8338428db7e6970",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1d334acb85d4bcb97",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1c8fb7a9e82c7ec90",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da14e37869f40c1688e",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1713c1ebe73587c7c",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da19327af090f4f3637",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1ce2ada8b1128eaf4",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da137e649a23686559d",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1b813a5140c3b936b",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1031b5418188626a6",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da119d5ac3b37155b41",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da13cc3a9641e731199",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1e58b9519ef409aaf",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da12458c244d03653ad",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da187df5338cb7c0fc2",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da12f1fe539659f1ada",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1babdbba8dfc65865",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1756017855981c27d",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da1b86ed4c00893de4d",
-    "picture": "http://placehold.it/500x500"
-  },
-  {
-    "_id": "61509da15e0f4aade17e2fda",
-    "picture": "http://placehold.it/500x500"
+    "name": "Leigh",
+    "price": 3209711
   }
 ]
