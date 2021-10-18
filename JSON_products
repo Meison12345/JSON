@@ -1,22 +1,51 @@
-[
-  {
-    "id_product": 001,
-    "product_name": "Ноутбук",
-    "price": 45600
-  },
-  {
-    "id_product": 002,
-    "product_name": "Мышка",
-    "price": 1000
-  },
-  {
-    "id_product": 003,
-    "product_name": "Пк",
-    "price": 991000
-  },
-  {
-    "id_product": 004,
-    "product_name": "Серьга",
-    "price": 5000
-  }
+[{
+        "id_product": 1000,
+        "product_name": "Ноутбук",
+        "price": 45600
+    },
+    {
+        "id_product": 1001,
+        "product_name": "Мышка",
+        "price": 1000
+    },
+    {
+        "id_product": 1002,
+        "product_name": "Пк",
+        "price": 991000
+    },
+    {
+        "id_product": 1003,
+        "product_name": "Видеокарта",
+        "price": 5000
+    },
+    {
+        "id_product": 1004,
+        "product_name": "Провод",
+        "price": 5000
+    },
+    {
+        "id_product": 1005,
+        "product_name": "Cougar",
+        "price": 5000
+    },
+    {
+        "id_product": 1006,
+        "product_name": "Meizu",
+        "price": 5000
+    },
+    {
+        "id_product": 1007,
+        "product_name": "Водянка",
+        "price": 5000
+    },
+    {
+        "id_product": 1008,
+        "product_name": "Материнская плата",
+        "price": 5000
+    },
+    {
+        "id_product": 1009,
+        "product_name": "БП",
+        "price": 5000
+    }
 ]
