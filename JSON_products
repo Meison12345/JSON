@@ -8,21 +8,5 @@
     "id_product": 456,
     "product_name": "Мышка",
     "price": 1000
-  },
-  {
-    "id_product": 456,
-    "product_name": "Мышка1",
-    "price": 1000
-  },
-  {
-    "id_product": 456,
-    "product_name": "Мышка3",
-    "price": 1000
-  },
-  {
-    "id_product": 456,
-    "product_name": "Мышка2",
-    "price": 1000
-  },
-  
+  }
 ]
