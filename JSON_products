@@ -1,1 +1,47 @@
-
+[
+  {
+    "id_product": 123,
+    "product_name": "Ноутбук",
+    "price": 45600
+  },
+  {
+    "id_product": 456,
+    "product_name": "Мышка",
+    "price": 1000
+  },
+  {
+    "id_product": 789,
+    "product_name": "провод",
+    "price": 500
+  },
+  {
+    "id_product": 012,
+    "product_name": "клавиатура",
+    "price": 5000
+  },
+  {
+    "id_product": 345,
+    "product_name": "часы",
+    "price": 9000
+  },
+  {
+    "id_product": 123qwe,
+    "product_name": "очки",
+    "price": 5000
+  },
+  {
+    "id_product": 534asd,
+    "product_name": "usb коннектор",
+    "price": 700
+  },
+  {
+    "id_product": 856lkv,
+    "product_name": "кошелек",
+    "price": 899
+  },
+  {
+    "id_product": 501cvz,
+    "product_name": "Хлеб",
+    "price": 200
+  }
+]
