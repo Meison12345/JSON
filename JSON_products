@@ -13,5 +13,25 @@
     "id_product": 789,
     "product_name": "Провод",
     "price": 500
+  },
+  {
+    "id_product": 012,
+    "product_name": "Жд",
+    "price": 3500
+  },
+  {
+    "id_product": 345,
+    "product_name": "Виднокарта",
+    "price": 35000
+  },
+  {
+    "id_product": 678"
+    "product_name": "Процессор",
+    "price": 18500
+  },
+  {
+    "id_product": 901,
+    "product_name": "Звуковая карта",
+    "price": 5990
   }
 ]
